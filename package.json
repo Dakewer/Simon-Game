@@ -1,0 +1,19 @@
+{
+  "name": "simon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dakewer/Simon-Game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dakewer/Simon-Game/issues"
+  },
+  "homepage": "https://github.com/Dakewer/Simon-Game#readme"
+}
